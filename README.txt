@@ -20,10 +20,12 @@ git branch -D chih
 * Listar branch
 git branch
 ---------------------------------------------------------------
-add online
+*add online
 git remote add origin https://github.com/Chih-Yao-Yang/teste.git
 git push -u origin master --> primeira vez
 git push origin master
 ---------------------------------------------------------------
 git clone https://github.com/Chih-Yao-Yang/teste.git
-
+---------------------------------------------------------------
+*add online com branch
+git push origin chih --> add new branch
