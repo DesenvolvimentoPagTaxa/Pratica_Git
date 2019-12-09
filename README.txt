@@ -8,6 +8,9 @@ git branch 'nome do branch' -->cria branch
 git checkout 'nome do branch' -->trocar branch
 git checkout -b 'nome do branch' --> criar branch e ja troca
 ---------------------------------------------------------------
+* Listar branch
+git branch
+---------------------------------------------------------------
 * juntar todo branch 
 * trocar primeiro para master
 
@@ -16,16 +19,13 @@ git merge chih
 ---------------------------------------------------------------
 * Deletar branch
 git branch -D chih
----------------------------------------------------------------
-* Listar branch
-git branch
----------------------------------------------------------------
+
 *add online
 git remote add origin https://github.com/Chih-Yao-Yang/teste.git
 git push -u origin master --> primeira vez
 git push origin master
 ---------------------------------------------------------------
 git clone https://github.com/Chih-Yao-Yang/teste.git
----------------------------------------------------------------
-*add online com branch
-git push origin chih --> add new branch
+
+
+sempre commit na master
