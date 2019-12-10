@@ -24,8 +24,9 @@ git branch -D chih
 git remote add origin https://github.com/Chih-Yao-Yang/teste.git
 git push -u origin master --> primeira vez
 git push origin master
+*Ou add branch
+git push origin develop
 ---------------------------------------------------------------
 git clone https://github.com/Chih-Yao-Yang/teste.git
-
 
 sempre commit na master
